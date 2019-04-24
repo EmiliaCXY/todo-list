@@ -1,4 +1,7 @@
 # node-js-playlist
+
+A JavaScript practice by following the tutorial by nijia...
+
 CSS and asset files for the Net Ninja YouTube nodejs playlist
 
 The final project code can be found in the public/assests folder of this repo
